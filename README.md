@@ -19,7 +19,7 @@ I'm a **Computer Science graduate** with a background in **Asset Security** and 
 I'm eager to **connect, collaborate, and learn** from industry professionals and fellow enthusiasts. If you have any tips, resources, or opportunities, I'd love to hear from you!
 
 📩 **Let's Connect:**  
-- 💼 [LinkedIn]((https://www.linkedin.com/in/dhindsa-bikram/))  
+- 💼 [LinkedIn](https://www.linkedin.com/in/dhindsa-bikram/)
 - 📝 [GitHub](https://github.com/BikDHINDSA)  
 - ✉️ Email: dhindsa.bikram@gmail.com 
 
