@@ -1,7 +1,7 @@
 # Bikram Dhindsa | Security Operations & Infrastructure Specialist
 **Computer Science Engineer | CompTIA Security+ | Infrastructure Security Leader**
 
-[![Security+](img.shields.io)](https://www.comptia.org)
+[![Security+]([img.shields.io](https://img.shields.io/badge/code%20style-black-black.svg))](https://www.comptia.org)
 [![Azure](img.shields.io)](https://learn.microsoft.com)
 [![Van](img.shields.io)](https://www.vancouver.ca)
 
