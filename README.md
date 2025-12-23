@@ -1,27 +1,55 @@
-# Hi there! 👋 I'm [Bikram Dhindsa]
+# Bikram Dhindsa | Security Operations & Infrastructure Specialist
+**Computer Science Engineer | CompTIA Security+ | Infrastructure Security Leader**
 
-## 🌐 About Me
-I'm a **Computer Science graduate** with a background in **Asset Security** and a strong passion for **Cybersecurity**. After several years of securing assets, managing risks, and resolving conflicts, I'm now transitioning into the world of **Cybersecurity** to leverage my skills in **Incident Response, Risk Management, and Threat Mitigation**.
+[![Security+](img.shields.io)](www.comptia.org)
+[![Azure](img.shields.io)](learn.microsoft.com)
+[![Location](img.shields.io)](https://www.vancouver.ca)
 
-### 🎯 My Current Focus
-- 📚 Completing the **Google Cybersecurity Certificate**
-- 🔍 Exploring **Network Security, Ethical Hacking, and SOC Analysis**
-- 💡 Learning & upskilling in **Computer Science fundamentals & Cybersecurity best practices**
-- 🎯 Seeking opportunities to start my **Cybersecurity career** and grow within the field
+---
 
-### 🛠️ Skills & Experience
-- **Security & Risk Management** 🏢 (From my experience in asset security)
-- **Incident Response & Conflict Resolution** 🔥 (Handling & mitigating security threats)
-- **Network Security & Threat Analysis** 🔍 (Currently learning & expanding my knowledge)
-- **Soft Skills** 🤝 (Strong communication, problem-solving, and teamwork)
+##**Executive Summary**
+A **Computer Science Engineering** professional with a 5-year track record in **Physical Security Infrastructure** and risk management. Currently pivoting into **Offensive Security** by bridging the gap between physical perimeter protection and digital infrastructure defense. I provide a unique perspective on security resilience, combining deep technical knowledge with real-world incident response experience in critical infrastructure.
 
-### 🚀 Always Open to Learning!
-I'm eager to **connect, collaborate, and learn** from industry professionals and fellow enthusiasts. If you have any tips, resources, or opportunities, I'd love to hear from you!
+---
 
-📩 **Let's Connect:**  
-- 💼 [LinkedIn](https://www.linkedin.com/in/dhindsa-bikram/)
-- 📝 [GitHub](https://github.com/BikDHINDSA)  
-- ✉️ Email: dhindsa.bikram@gmail.com 
+##**Strategic Pivot: Physical to Offensive Security**
+I am currently translating five years of operational leadership into an offensive security framework. My objective is to leverage my understanding of physical vulnerabilities to enhance **Penetration Testing** and **Red Teaming** methodologies for modern enterprises.
 
-**Let's embark on a journey of continuous learning and digital defense—exploring, evolving, and fortifying the cyber world for everyone! 🔐🌍🚀**
-          
+---
+
+##**Technical Proficiency** 
+
+###Domain	Technologies & Frameworks
+Security Operations	Splunk, Microsoft Sentinel (SIEM), Threat Hunting, Incident Response
+Infrastructure	Azure Cloud, Virtualization, Network Hardening, Linux/Windows Admin
+Offensive Security	Vulnerability Assessment, Network Exploitation, OSINT, Pentesting Labs
+Development	LAMP Stack, Python Scripting, Bash, Secure SDLC
+Leadership	Risk Management, Stakeholder Coordination, Policy Implementation
+
+---
+
+##**Security Portfolio & Proof of Concept**
+
+* Cloud-Native SIEM Implementation
+ * Objective: Deployment of an Azure-based Honeypot to analyze real-world brute-force patterns.
+ * Tech: Azure Sentinel, KQL (Kusto Query Language), Log Analytics.
+ * Result: Visualized global attack vectors and established automated alerting for suspicious IP ranges.
+   
+* Hardened Infrastructure: LAMP Stack
+ * Objective: Building a secure, production-ready web environment from the OS level up.
+ * Tech: Linux Hardening, Apache SSL/TLS Configuration, MySQL Encryption.
+ * Result: Reduced attack surface by 60% through service minimalization and firewall optimization.
+
+ ---
+ 
+##**Current Professional Development (2025)**
+* Advancing: Splunk Core Certified Power User (In Progress)
+* Specializing: AZ-500: Azure Security Engineer (In Progress)
+* Mastering: PNPT (Practical Network Penetration Tester) Training
+
+---
+
+##**Professional Contact**
+LinkedIn: www.linkedin.com/in/dhindsa-bikram
+Email: dhindsa.bikram@gmail.com
+
