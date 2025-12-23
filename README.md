@@ -3,7 +3,7 @@
 
 [![Security+](img.shields.io)](www.comptia.org)
 [![Azure](img.shields.io)](learn.microsoft.com)
-[![Location](img.shields.io)](https://www.vancouver.ca)
+[![Van](img.shields.io)](https://www.vancouver.ca)
 
 ---
 
