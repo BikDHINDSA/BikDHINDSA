@@ -31,14 +31,14 @@ Leadership	Risk Management, Stakeholder Coordination, Policy Implementation
 ## **Security Portfolio & Proof of Concept**
 
 * Cloud-Native SIEM Implementation
- * Objective: Deployment of an Azure-based Honeypot to analyze real-world brute-force patterns.
- * Tech: Azure Sentinel, KQL (Kusto Query Language), Log Analytics.
- * Result: Visualized global attack vectors and established automated alerting for suspicious IP ranges.
+  * Objective: Deployment of an Azure-based Honeypot to analyze real-world brute-force patterns.
+  * Tech: Azure Sentinel, KQL (Kusto Query Language), Log Analytics.
+  * Result: Visualized global attack vectors and established automated alerting for suspicious IP ranges.
    
 * Hardened Infrastructure: LAMP Stack
- * Objective: Building a secure, production-ready web environment from the OS level up.
- * Tech: Linux Hardening, Apache SSL/TLS Configuration, MySQL Encryption.
- * Result: Reduced attack surface by 60% through service minimalization and firewall optimization.
+  * Objective: Building a secure, production-ready web environment from the OS level up.
+  * Tech: Linux Hardening, Apache SSL/TLS Configuration, MySQL Encryption.
+  * Result: Reduced attack surface by 60% through service minimalization and firewall optimization.
 
  ---
  
