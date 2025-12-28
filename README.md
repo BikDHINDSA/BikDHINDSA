@@ -28,17 +28,13 @@ Leadership	Risk Management, Stakeholder Coordination, Policy Implementation
 
 ---
 
-## **Security Portfolio & Proof of Concept**
+## **Core Technical Expertise & Keywords:**
 
-* Cloud-Native SIEM Implementation
-  * Objective: Deployment of an Azure-based Honeypot to analyze real-world brute-force patterns.
-  * Tech: Azure Sentinel, KQL (Kusto Query Language), Log Analytics.
-  * Result: Visualized global attack vectors and established automated alerting for suspicious IP ranges.
+* Security Operations (SOC): SIEM (Splunk, Chronicle), IDS/IPS (Suricata), Log Analysis, Packet Analysis (Wireshark, Tcpdump), Incident Response Playbooks.
+* Offensive Security: Vulnerability Assessment, Threat Modeling (MITRE ATT&CK), Network Exploitation, Ethical Hacking (Kali Linux, TryHackMe/HTB).
+* Infrastructure & Cloud: Microsoft Azure Security, Linux Administration (Bash), Network Architecture (TCP/IP), Identity and Access Management (IAM).
+* Compliance & Frameworks: NIST Cybersecurity Framework (CSF), NIST Risk Management Framework (RMF), CIA Triad, ISO 27001.
    
-* Hardened Infrastructure: LAMP Stack
-  * Objective: Building a secure, production-ready web environment from the OS level up.
-  * Tech: Linux Hardening, Apache SSL/TLS Configuration, MySQL Encryption.
-  * Result: Reduced attack surface by 60% through service minimalization and firewall optimization.
 
  ---
  
@@ -50,6 +46,6 @@ Leadership	Risk Management, Stakeholder Coordination, Policy Implementation
 ---
 
 ## **Professional Contact**
-LinkedIn: www.linkedin.com/in/dhindsa-bikram
-Email: dhindsa.bikram@gmail.com
+Linkedin:(https://www.linkedin.com/in/dhindsa-bikram/)
+Email:(dhindsa.bikram@gmail.com)
 
