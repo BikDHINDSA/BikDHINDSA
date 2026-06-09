@@ -39,7 +39,8 @@ Leadership	Risk Management, Stakeholder Coordination, Policy Implementation
 
  ---
  
-## **Current Professional Development (2025)**
+## **Current Professional Development (2026)**
+* Completing: Try Hack me SOC path (In Progress)
 * Advancing: Splunk Core Certified Power User (In Progress)
 * Specializing: AZ-500: Azure Security Engineer (In Progress)
 * Mastering: PNPT (Practical Network Penetration Tester) Training
