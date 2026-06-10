@@ -3,7 +3,7 @@
 [![CISCO CCNA](https://img.shields.io/badge/_-CCNA-blue?style=flat-square&logo=cisco&logoColor=%231BA0D7&logoSize=auto&labelColor=black&color=blue
 )](https://www.credly.com/badges/870ed341-a8e1-4422-9dc0-ff10e9367401)
 [![CompTIA Security+](https://img.shields.io/badge/Security_%2B-Security_%2B-red?style=flat-square&logo=CompTIA&logoColor=White&logoSize=auto&label=%20&labelColor=black&color=red)](https://www.credly.com/badges/3f914e06-1360-4580-9330-64d9930c7b32)
-![Location](https://img.shields.io/badge/Location-Vancouver%2C_Canada-blue?style=flat-square&logo=geo&logoColor=white&logoSize=auto&color=blue)
+![Location](https://img.shields.io/badge/Location-SURREY,BC%2C_Canada-blue?style=flat-square&logo=geo&logoColor=white&logoSize=auto&color=blue)
 
 
 ---
