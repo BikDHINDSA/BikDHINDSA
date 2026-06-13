@@ -47,7 +47,13 @@ Leadership	Risk Management, Stakeholder Coordination, Policy Implementation
 
 ---
 
+## **PROJECTS**
+* [PORTFOLIO](https://github.com/BikDHINDSA/Cybersecurity_Portfolio)
+* [ATTECKER MINDSET](https://github.com/BikDHINDSA/Attacker_Mindset)
+* [PYTHON](https://github.com/BikDHINDSA/level-up-python)
+* [SECURITY LABS](https://github.com/BikDHINDSA/Security_Labs)
+
 ## **Professional Contact**
-Linkedin:(https://www.linkedin.com/in/dhindsa-bikram/)
-Email:(dhindsa.bikram@gmail.com)
+[Linkedin](https://www.linkedin.com/in/dhindsa-bikram/)
+[Send me an email](mailto:dhindsa.bikram@gmail.com)
 
