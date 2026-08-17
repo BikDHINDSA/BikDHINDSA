@@ -1,59 +1,48 @@
-# Bikram Dhindsa | Security Operations & IT Specialist
+# Bikram Dhindsa
+**Security Operations | SIEM & Detection Engineering**
 
-[![CISCO CCNA](https://img.shields.io/badge/_-CCNA-blue?style=flat-square&logo=cisco&logoColor=%231BA0D7&logoSize=auto&labelColor=black&color=blue
-)](https://www.credly.com/badges/870ed341-a8e1-4422-9dc0-ff10e9367401)
-[![CompTIA Security+](https://img.shields.io/badge/Security_%2B-Security_%2B-red?style=flat-square&logo=CompTIA&logoColor=White&logoSize=auto&label=%20&labelColor=black&color=red)](https://www.credly.com/badges/3f914e06-1360-4580-9330-64d9930c7b32)
-![Location](https://img.shields.io/badge/Location-SURREY,BC%2C_Canada-blue?style=flat-square&logo=geo&logoColor=white&logoSize=auto&color=blue)
-
-
----
-
-## **Executive Summary**
-A **Computer Science Engineering** professional with a 5-year track record in **Physical Security Infrastructure** and risk management. Currently pivoting into **Offensive Security** by bridging the gap between physical perimeter protection and digital infrastructure defense. I provide a unique perspective on security resilience, combining deep technical knowledge with real-world incident response experience in critical infrastructure.
+[![CompTIA Security+](https://img.shields.io/badge/Security%2B-CompTIA-red?style=flat-square&logo=CompTIA&logoColor=white&labelColor=black)](https://www.credly.com/badges/3f914e06-1360-4580-9330-64d9930c7b32)
+[![Cisco CCNA](https://img.shields.io/badge/CCNA-Cisco-blue?style=flat-square&logo=cisco&logoColor=%231BA0D7&labelColor=black)](https://www.credly.com/badges/870ed341-a8e1-4422-9dc0-ff10e9367401)
+![Location](https://img.shields.io/badge/Location-Metro%20Vancouver%2C%20Canada-blue?style=flat-square)
 
 ---
 
-## **Strategic Pivot: Physical to Offensive Security**
-I am currently translating five years of operational leadership into an offensive security framework. My objective is to leverage my understanding of physical vulnerabilities to enhance **Penetration Testing** and **Red Teaming** methodologies for modern enterprises.
+Five years of multi-site physical security operations taught me how to triage under pressure, correlate incomplete information from multiple systems, and make clear decisions when time is limited. I apply that same operational discipline to digital environments—working with Microsoft Sentinel, Sysmon telemetry, KQL detections, and network traffic to investigate alerts, reduce noise, and document findings properly.
 
----
+**What I bring to a SOC / Security Operations role**
+- High-volume alert triage and prioritization under SLA pressure (routinely 15–25 incidents per shift across multiple sites)
+- Experience correlating different data sources and validating events before escalating
+- Practical detection engineering: custom KQL rules, Sysmon pipelines, false-positive reduction, and structured investigation write-ups
+- Solid network foundation (CCNA) with hands-on packet analysis and firewall/ACL review
 
-## **Technical Proficiency** 
+### Current Focus
+- Microsoft Certified: Security Operations Analyst Associate (SC-200) — in progress  
+- TryHackMe SOC Level 1 — completed  
+- PNPT (Practical Network Penetration Tester) training  
 
-**Domain	Technologies & Frameworks**
-Security Operations	Splunk, Microsoft Sentinel (SIEM), Threat Hunting, Incident Response
-Infrastructure	Azure Cloud, Virtualization, Network Hardening, Linux/Windows Admin
-Offensive Security	Vulnerability Assessment, Network Exploitation, OSINT, Pentesting Labs
-Development	LAMP Stack, Python Scripting, Bash, Secure SDLC
-Leadership	Risk Management, Stakeholder Coordination, Policy Implementation
+### Core Technical Areas
+**Security Operations & Detection**  
+Microsoft Sentinel • KQL • Sysmon • Splunk (SPL) • Elastic/Kibana • Suricata • Log correlation • Alert tuning • Incident documentation  
 
----
+**Network & Systems**  
+Packet analysis (Wireshark, tcpdump, Tshark) • Firewall/ACL review • TCP/IP • VLANs & segmentation • Cisco IOS/ASA  
 
-## **Core Technical Expertise & Keywords:**
+**Automation & Tooling**  
+Python (log parsing, file handling) • Bash • Regex • YAML/Jinja2 • Git  
 
-* Security Operations (SOC): SIEM (Splunk, Chronicle), IDS/IPS (Suricata), Log Analysis, Packet Analysis (Wireshark, Tcpdump), Incident Response Playbooks.
-* Offensive Security: Vulnerability Assessment, Threat Modeling (MITRE ATT&CK), Network Exploitation, Ethical Hacking (Kali Linux, TryHackMe/HTB).
-* Infrastructure & Cloud: Microsoft Azure Security, Linux Administration (Bash), Network Architecture (TCP/IP), Identity and Access Management (IAM).
-* Compliance & Frameworks: NIST Cybersecurity Framework (CSF), NIST Risk Management Framework (RMF), CIA Triad, ISO 27001.
-   
+### Selected Projects
 
- ---
- 
-## **Current Professional Development (2026)**
-* Completing: Try Hack me SOC path (In Progress)
-* Advancing: Splunk Core Certified Power User (In Progress)
-* Specializing: AZ-500: Azure Security Engineer (In Progress)
-* Mastering: PNPT (Practical Network Penetration Tester) Training
+**[Sysmon-to-Sentinel Detection Pipeline](https://github.com/BikDHINDSA/sysmon-to-sentinel-detection-pipeline)**  
+Four-phase Azure Sentinel home lab covering environment setup, simulated attacks, custom KQL detections, investigation, and formal incident-response reporting. Built an end-to-end workflow from Sysmon telemetry collection through actionable detection and documentation.
 
----
+**[CCNA Network Security Capstone](https://github.com/BikDHINDSA/ccna-network-security-capstone)**  
+Designed and secured a segmented enterprise network in Packet Tracer using VLANs, perimeter firewall, least-privilege ACLs, and inter-VLAN routing. Added a syslog pipeline into Microsoft Sentinel and a Python + YAML/Jinja2 configuration-as-code workflow.
 
-## **PROJECTS**
-* [PORTFOLIO](https://github.com/BikDHINDSA/Cybersecurity_Portfolio)
-* [ATTECKER MINDSET](https://github.com/BikDHINDSA/Attacker_Mindset)
-* [PYTHON](https://github.com/BikDHINDSA/level-up-python)
-* [SECURITY LABS](https://github.com/BikDHINDSA/Security_Labs)
+**[Cybersecurity Portfolio](https://github.com/BikDHINDSA/Cybersecurity_Portfolio)**  
+Hands-on labs covering SIEM investigations, packet analysis, IDS detection, incident response workflows, Linux security, and Python automation for security tasks.
 
-## **Professional Contact**
-[Linkedin](https://www.linkedin.com/in/dhindsa-bikram/)
-[Send me an email](mailto:dhindsa.bikram@gmail.com)
+**Additional work**  
+[Attacker Mindset](https://github.com/BikDHINDSA/Attacker_Mindset) · [Level Up Python](https://github.com/BikDHINDSA/level-up-python)
 
+### Contact
+[LinkedIn](https://www.linkedin.com/in/dhindsa-bikram/) · [Email](mailto:dhindsa.bikram@gmail.com) · GitHub: [BikDHINDSA](https://github.com/BikDHINDSA)
