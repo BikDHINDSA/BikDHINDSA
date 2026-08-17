@@ -1,5 +1,5 @@
 # Bikram Dhindsa
-**Security Operations | SIEM & Detection Engineering**
+## **Security Operations | SIEM & Detection Engineering**
 
 [![CompTIA Security+](https://img.shields.io/badge/Security%2B-CompTIA-red?style=flat-square&logo=CompTIA&logoColor=white&labelColor=black)](https://www.credly.com/badges/3f914e06-1360-4580-9330-64d9930c7b32)
 [![Cisco CCNA](https://img.shields.io/badge/CCNA-Cisco-blue?style=flat-square&logo=cisco&logoColor=%231BA0D7&labelColor=black)](https://www.credly.com/badges/870ed341-a8e1-4422-9dc0-ff10e9367401)
@@ -7,28 +7,32 @@
 
 ---
 
-Five years of multi-site physical security operations taught me how to triage under pressure, correlate incomplete information from multiple systems, and make clear decisions when time is limited. I apply that same operational discipline to digital environments—working with Microsoft Sentinel, Sysmon telemetry, KQL detections, and network traffic to investigate alerts, reduce noise, and document findings properly.
+Five years of multi-site physical security operations taught me how to triage under pressure, correlate incomplete information from multiple systems, and make clear decisions when time is limited. I apply that same operational discipline to digital environments — working with Microsoft Sentinel, Sysmon telemetry, KQL detections, and network traffic to investigate alerts, reduce noise, and document findings properly.
 
-**What I bring to a SOC / Security Operations role**
-- High-volume alert triage and prioritization under SLA pressure (routinely 15–25 incidents per shift across multiple sites)
-- Experience correlating different data sources and validating events before escalating
-- Practical detection engineering: custom KQL rules, Sysmon pipelines, false-positive reduction, and structured investigation write-ups
-- Solid network foundation (CCNA) with hands-on packet analysis and firewall/ACL review
+### What I Bring to a SOC / Security Operations Role
+
+- High-volume alert triage and prioritization under SLA pressure (routinely 15–25 incidents per shift across multiple sites)  
+- Experience correlating different data sources and validating events before escalating  
+- Practical detection engineering: custom KQL rules, Sysmon pipelines, false-positive reduction, and structured investigation write-ups  
+- Solid network foundation (CCNA) with hands-on packet analysis and firewall/ACL review  
 
 ### Current Focus
-- Microsoft Certified: Security Operations Analyst Associate (SC-200) — in progress  
-- TryHackMe SOC Level 1 — completed  
-- PNPT (Practical Network Penetration Tester) training  
+
+- **Microsoft Certified: Security Operations Analyst Associate (SC-200)** — in progress  
+- **TryHackMe SOC Level 1** — completed  
+- **PNPT** (Practical Network Penetration Tester) training  
+- Additional: Google Cybersecurity Professional Certificate · Programming with Python (OpenEDG)
 
 ### Core Technical Areas
+
 **Security Operations & Detection**  
-Microsoft Sentinel • KQL • Sysmon • Splunk (SPL) • Elastic/Kibana • Suricata • Log correlation • Alert tuning • Incident documentation  
+Microsoft Sentinel · KQL · Sysmon · Splunk (SPL) · Elastic/Kibana · Suricata · Log correlation · Alert tuning · Incident documentation  
 
 **Network & Systems**  
-Packet analysis (Wireshark, tcpdump, Tshark) • Firewall/ACL review • TCP/IP • VLANs & segmentation • Cisco IOS/ASA  
+Packet analysis (Wireshark, tcpdump, Tshark) · Firewall/ACL review · TCP/IP · VLANs & segmentation · Cisco IOS/ASA  
 
 **Automation & Tooling**  
-Python (log parsing, file handling) • Bash • Regex • YAML/Jinja2 • Git  
+Python (log parsing, file handling) · Bash · Regex · YAML/Jinja2 · Git  
 
 ### Selected Projects
 
@@ -45,4 +49,9 @@ Hands-on labs covering SIEM investigations, packet analysis, IDS detection, inci
 [Attacker Mindset](https://github.com/BikDHINDSA/Attacker_Mindset) · [Level Up Python](https://github.com/BikDHINDSA/level-up-python)
 
 ### Contact
+
+[LinkedIn](https://www.linkedin.com/in/dhindsa-bikram/) · [Email](mailto:dhindsa.bikram@gmail.com) · GitHub: [BikDHINDSA](https://github.com/BikDHINDSA)
+[Attacker Mindset](https://github.com/BikDHINDSA/Attacker_Mindset) · [Level Up Python](https://github.com/BikDHINDSA/level-up-python)
+
+## Contact
 [LinkedIn](https://www.linkedin.com/in/dhindsa-bikram/) · [Email](mailto:dhindsa.bikram@gmail.com) · GitHub: [BikDHINDSA](https://github.com/BikDHINDSA)
