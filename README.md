@@ -1,5 +1,5 @@
 # Bikram Dhindsa
-## **Security Operations | SIEM & Detection Engineering**
+**Security Operations | SIEM & Detection Engineering**
 
 [![CompTIA Security+](https://img.shields.io/badge/Security%2B-CompTIA-red?style=flat-square&logo=CompTIA&logoColor=white&labelColor=black)](https://www.credly.com/badges/3f914e06-1360-4580-9330-64d9930c7b32)
 [![Cisco CCNA](https://img.shields.io/badge/CCNA-Cisco-blue?style=flat-square&logo=cisco&logoColor=%231BA0D7&labelColor=black)](https://www.credly.com/badges/870ed341-a8e1-4422-9dc0-ff10e9367401)
@@ -19,6 +19,8 @@ Five years of multi-site physical security operations taught me how to triage un
 ### Current Focus
 
 - **Microsoft Certified: Security Operations Analyst Associate (SC-200)** — in progress  
+- **Splunk Core Certified Power User** — next  
+- **Microsoft SC-900** — completed  
 - **TryHackMe SOC Level 1** — completed  
 - **PNPT** (Practical Network Penetration Tester) training  
 - Additional: Google Cybersecurity Professional Certificate · Programming with Python (OpenEDG)
@@ -50,8 +52,4 @@ Hands-on labs covering SIEM investigations, packet analysis, IDS detection, inci
 
 ### Contact
 
-[LinkedIn](https://www.linkedin.com/in/dhindsa-bikram/) · [Email](mailto:dhindsa.bikram@gmail.com) · GitHub: [BikDHINDSA](https://github.com/BikDHINDSA)
-[Attacker Mindset](https://github.com/BikDHINDSA/Attacker_Mindset) · [Level Up Python](https://github.com/BikDHINDSA/level-up-python)
-
-## Contact
 [LinkedIn](https://www.linkedin.com/in/dhindsa-bikram/) · [Email](mailto:dhindsa.bikram@gmail.com) · GitHub: [BikDHINDSA](https://github.com/BikDHINDSA)
