@@ -3,7 +3,9 @@
 
 [![CompTIA Security+](https://img.shields.io/badge/Security%2B-CompTIA-red?style=flat-square&logo=CompTIA&logoColor=white&labelColor=black)](https://www.credly.com/badges/3f914e06-1360-4580-9330-64d9930c7b32)
 [![Cisco CCNA](https://img.shields.io/badge/CCNA-Cisco-blue?style=flat-square&logo=cisco&logoColor=%231BA0D7&labelColor=black)](https://www.credly.com/badges/870ed341-a8e1-4422-9dc0-ff10e9367401)
-![Location](https://img.shields.io/badge/Location-Metro%20Vancouver%2C%20Canada-blue?style=flat-square)
+[![SC-900](https://img.shields.io/badge/SC--900-Microsoft-0078D4?style=flat-square&logo=microsoftazure&logoColor=white&labelColor=black)](https://learn.microsoft.com/en-us/users/bikramdhindsa-1215/credentials/fe8d9e34e12d2f1d)
+[![Google Cybersecurity](https://img.shields.io/badge/Google-Cybersecurity-4285F4?style=flat-square&logo=google&logoColor=white&labelColor=black)](https://coursera.org/share/d2bfde5b80f529a6dc805fb0f6a6be47)
+![Location](https://img.shields.io/badge/Location-Metro%20Vancouver%2C%20Canada-blue?style=flat-square&labelColor=black)
 
 ---
 
