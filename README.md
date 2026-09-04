@@ -9,7 +9,7 @@
 
 ---
 
-Five years of multi-site physical security operations taught me how to triage under pressure, correlate incomplete information from multiple systems, and make clear decisions when time is limited. I apply that same operational discipline to digital environments — working with Microsoft Sentinel, Sysmon telemetry, KQL detections, and network traffic to investigate alerts, reduce noise, and document findings properly.
+Five years of multi-site physical security operations taught me how to triage under pressure, correlate incomplete information from multiple systems, and make clear decisions when time is limited. I apply that same operational discipline to digital environments, working with Microsoft Sentinel, Sysmon telemetry, KQL detections, and network traffic to investigate alerts, reduce noise, and document findings properly.
 
 ### What I Bring to a SOC / Security Operations Role
 
